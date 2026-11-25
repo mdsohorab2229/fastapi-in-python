@@ -3,3 +3,5 @@ uvicorn
 pydantic
 pymysql
 sqlalchemy
+email-validator
+psycopg2-binary
